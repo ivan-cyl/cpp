@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\desktop\c++\考试使用\考试使用\源.cpp(25): error C2065: “cout”: 未声明的标识符
+d:\desktop\c++\考试使用\考试使用\源.cpp(29): error C3861: “printf”: 找不到标识符
+d:\desktop\c++\考试使用\考试使用\源.cpp(31): error C3861: “printf”: 找不到标识符
