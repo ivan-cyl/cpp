@@ -1,0 +1,7 @@
+﻿  源.c
+d:\desktop\c++\project3\project3\源.c(12): warning C4013: “volume”未定义；假设外部返回 int
+d:\desktop\c++\project3\project3\源.c(13): warning C4778: “printf”: 格式字符串“%v”未终止
+d:\desktop\c++\project3\project3\源.c(13): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\desktop\c++\project3\project3\源.c(13): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+源.obj : error LNK2019: 无法解析的外部符号 _volume，该符号在函数 _main 中被引用
+D:\Desktop\C++\Project3\Debug\Project3.exe : fatal error LNK1120: 1 个无法解析的外部命令
