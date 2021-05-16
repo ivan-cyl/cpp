@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\desktop\c++\project21\project21\源.cpp(7): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\desktop\c++\project21\project21\源.cpp(9): warning C4552: ”+“: 未使用表达式结果
+  Project21.vcxproj -> D:\Desktop\C++\Project21\Debug\Project21.exe
